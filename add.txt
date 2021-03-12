@@ -1,1 +1,3 @@
 test text to add file
+some other text
+dummy text
