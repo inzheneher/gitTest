@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  elasticsearch:
+  - apiVersion: v1
+    appVersion: 8.0.0-SNAPSHOT
+    created: "2021-02-25T13:38:11.666542-05:00"
+    description: Official Elastic helm chart for Elasticsearch
+    digest: 6c66483a022d2f637ec5904538d150878bccc8f88339958038ed8126b4407aa6
+    home: https://github.com/elastic/helm-charts
+    icon: https://helm.elastic.co/icons/elasticsearch.png
+    maintainers:
+    - email: helm-charts@elastic.co
+      name: Elastic
+    name: elasticsearch
+    sources:
+    - https://github.com/elastic/elasticsearch
+    urls:
+    - elasticsearch-8.0.0-SNAPSHOT.tgz
+    version: 8.0.0-SNAPSHOT
+  - apiVersion: v1
+    appVersion: 7.11.1
+    created: "2021-02-25T13:38:11.664074-05:00"
+    description: Official Elastic helm chart for Elasticsearch
+    digest: 977641d574cec400b3e1ccbfa7a20e40e5e06059757958d486ff0eb6d400817e
+    home: https://github.com/elastic/helm-charts
+    icon: https://helm.elastic.co/icons/elasticsearch.png
+    maintainers:
+    - email: helm-charts@elastic.co
+      name: Elastic
+    name: elasticsearch
+    sources:
+    - https://github.com/elastic/elasticsearch
+    urls:
+    - elasticsearch-7.11.1.tgz
+    version: 7.11.1
+generated: "2021-02-25T13:38:11.660984-05:00"
